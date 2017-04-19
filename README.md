@@ -1,4 +1,7 @@
-# test coverage for  [grunt-concurrent (v2.3.1)](https://github.com/sindresorhus/grunt-concurrent#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-concurrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-concurrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-concurrent.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-concurrent)
+# npmtest-grunt-concurrent
+
+#### basic test coverage for  [grunt-concurrent (v2.3.1)](https://github.com/sindresorhus/grunt-concurrent#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-concurrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-concurrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-concurrent.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-concurrent)
+
 #### Run grunt tasks concurrently
 
 [![NPM](https://nodei.co/npm/grunt-concurrent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-concurrent)
